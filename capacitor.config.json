@@ -1,0 +1,11 @@
+{
+  "appId": "com.baptistha.fittrack",
+  "appName": "Fit Tracker",
+  "webDir": "docs",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
